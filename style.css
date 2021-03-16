@@ -1,0 +1,20 @@
+body {
+  background: url(/images/sunrise-5863751_1920.png) no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+.hero {
+  color: rgb(241, 236, 228);
+  margin-top: 20%;
+  text-align: center;
+  font-size: 65px;
+  letter-spacing: -0.05em;
+  line-height: 1.2em;
+  font-family: "Akaya Telivigala", cursive;
+}
+
+.edited-img {
+  width: 200px;
+  height: 100px;
+}

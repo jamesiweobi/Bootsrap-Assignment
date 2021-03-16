@@ -1,0 +1,25 @@
+body{
+    background:url(/images/pexels-andrew-neel-2312369.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Stick', sans-serif;
+}
+
+.rowHeight {
+    height: 500px;
+}
+
+h1{
+    font-size: 50px;
+}
+.bg {
+    background-color: #c1c1c1;
+    width: auto;
+}
+.footer {
+    background-color: white;
+    bottom: 0;
+}
+
+p {
+    padding: 10px;
+}

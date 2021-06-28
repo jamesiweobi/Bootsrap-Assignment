@@ -11,10 +11,14 @@ body {
   font-size: 65px;
   letter-spacing: -0.05em;
   line-height: 1.2em;
-  font-family: "Akaya Telivigala", cursive;
+  font-family: 'Akaya Telivigala', cursive;
 }
 
 .edited-img {
   width: 200px;
   height: 100px;
+}
+
+.btn-container {
+  margin: 20px auto;
 }
